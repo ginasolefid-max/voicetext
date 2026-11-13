@@ -1,0 +1,6 @@
+{
+  "appId": "com.voicetext.tts",
+  "appName": "VoiceText",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
